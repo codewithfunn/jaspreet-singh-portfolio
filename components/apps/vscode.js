@@ -1,13 +1,20 @@
-import React from 'react'
+import React from "react";
 
 export default function VsCode() {
-    return (
-        <iframe src="https://github1s.com/codewithfunn/keeper_note_making_app/blob/main/Components/Navbar/index.js" frameBorder="0" title="VsCode" className="h-full w-full bg-ub-cool-grey"></iframe>
-        // this is not my work, but it's amazing!
-        // Here is the link to the original repo: https://github.com/conwnet/github1s
-    )
+  return (
+    <iframe
+      src="
+        https://github1s.com/codewithfunn/jaspreet-singh-portfolio/blob/rp/components/apps/settings.js
+        "
+      frameBorder="0"
+      title="VsCode"
+      className="h-full w-full bg-ub-cool-grey"
+    ></iframe>
+    // this is not my work, but it's amazing!
+    // Here is the link to the original repo: https://github.com/conwnet/github1s
+  );
 }
 
 export const displayVsCode = () => {
-    <VsCode> </VsCode>
-}
+  <VsCode> </VsCode>;
+};
